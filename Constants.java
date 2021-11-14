@@ -3,7 +3,7 @@ package utilities;
 public interface Constants {
 
 	String URL = " ";				// public static final		
-	String USERNAME = " ";
-	String PASSWORD = " ";
-	String FILEPATH = " ";
+	String USERNAME = " ";				// public static final	
+	String PASSWORD = " ";				// public static final	
+	String FILEPATH = " ";				// public static final	
 }
